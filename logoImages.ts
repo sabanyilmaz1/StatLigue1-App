@@ -1,0 +1,25 @@
+export const logoImages={
+    require:{
+        '13':require('./assets/logoEquipes/ANGERSSCO.png'),
+        '3':require('./assets/logoEquipes/ASM.png'),
+        '11':require('./assets/logoEquipes/ASSE.png'),
+        '12':require('./assets/logoEquipes/BORDEAUX.png'),
+        '17':require('./assets/logoEquipes/BREST.png'),
+        '20':require('./assets/logoEquipes/CLERMONT.png'),
+        '16':require('./assets/logoEquipes/FCLORIENT.png'),
+        '10':require('./assets/logoEquipes/FCMETZ.png'),
+        '18':require('./assets/logoEquipes/FCNANTES.png'),
+        '1':require('./assets/logoEquipes/LOSC.png'),
+        '8':require('./assets/logoEquipes/MONTPELLIER.png'),
+        '9':require('./assets/logoEquipes/OGCNICE.png'),
+        '4':require('./assets/logoEquipes/OL.png'),
+        '5':require('./assets/logoEquipes/OM.png'),
+        '2':require('./assets/logoEquipes/PARISSG.png'),
+        '7':require('./assets/logoEquipes/RCLENS.png'),
+        '14':require('./assets/logoEquipes/REIMS.png'),
+        '6':require('./assets/logoEquipes/RENNES.png'),
+        '15':require('./assets/logoEquipes/STRASBOURG.png'),
+        '19':require('./assets/logoEquipes/TROYES.png'),
+    },
+
+}
